@@ -1,0 +1,81 @@
+ManifestFileVersion: 0
+CRC: 3818759524
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 96d98ec875361f00ff89d5a4247d85e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fd0565ccc68b45d294e989524a4d1189
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -619905303, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e118851293e23f34ba0d23ad3511e316, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 679f872254a97ee408b97636f39e45e9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d8339bf3ded3e57459f353892ffc4e21, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aff883249c4f35e4fa22f802a8b47004, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa0b2fc9f41f6dd4295d70d1a113030d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cf31461a720eed74f9250cb614969388, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/AB_Resources/UIPrefabs/PropDetailUIForm.prefab
+- Assets/AB_Resources/UIPrefabs/Canvas.prefab
+- Assets/AB_Resources/UIPrefabs/HeroInfoUIForm.prefab
+- Assets/AB_Resources/UIPrefabs/MainCityUIForm.prefab
+- Assets/AB_Resources/UIPrefabs/LogonUIForm.prefab
+- Assets/AB_Resources/UIPrefabs/SelectHeroUIForm.prefab
+- Assets/AB_Resources/UIPrefabs/MarketUIFrom.prefab
+Dependencies:
+- E:/Train_Space/TrainWorkSpace/ClientFramework/Assets/StreamingAssets/Windows/myatlas/background.ab
+- E:/Train_Space/TrainWorkSpace/ClientFramework/Assets/StreamingAssets/Windows/myatlas/packages.ab
+- E:/Train_Space/TrainWorkSpace/ClientFramework/Assets/StreamingAssets/Windows/myatlas/ui.ab

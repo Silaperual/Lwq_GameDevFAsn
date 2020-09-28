@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 722513560
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bfd9f9b96dab03880ef247586116f9e8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AB_Resources/MyAtlas/Background/MainBG.jpg
+- Assets/AB_Resources/MyAtlas/Background/LogonBG.png
+- Assets/AB_Resources/MyAtlas/Background/SelectHero.png
+- Assets/AB_Resources/MyAtlas/Background/Fuben2.png
+- Assets/AB_Resources/MyAtlas/Background/Fuben1.png
+- Assets/AB_Resources/MyAtlas/Background/Fuben3.png
+- Assets/AB_Resources/MyAtlas/Background/SelectLevel2.png
+Dependencies: []

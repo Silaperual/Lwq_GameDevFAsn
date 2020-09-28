@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3583850203
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f75ba2502633dbceff70f16e7f9ad12
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4cd0a5558493b0679e071c141fc729a3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/AB_Resources/MyAtlas/NPC/lenshentuoer.png
+- Assets/AB_Resources/MyAtlas/NPC/guanka.png
+- Assets/AB_Resources/MyAtlas/NPC/dafashi.png
+- Assets/AB_Resources/MyAtlas/NPC/yasewang.png
+- Assets/AB_Resources/MyAtlas/NPC/zhitianshi.png
+- Assets/AB_Resources/MyAtlas/NPC/yadianna.png
+- Assets/AB_Resources/MyAtlas/NPC/cunzhang.png
+Dependencies: []

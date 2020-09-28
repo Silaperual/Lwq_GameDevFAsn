@@ -1,0 +1,250 @@
+<GlobalConfig CodeFontSize = "22"/>
+<BreakpointList/>
+<WatchList/>
+<ProjectUI>
+  <TreeState BaseX = "0" BaseY = "0" AlternativeItem = "LuaFolders#Assets#StreamingAssets#Windows#LUA#ProjectInit.lua">
+    <SelectedList>
+      <Selected Path = "LuaFolders#Assets#StreamingAssets#Windows#LUA#CtrlMgr.lua"/>
+    </SelectedList>
+    <ExpandedList>
+      <Expanded Path = "LuaFolders"/>
+      <Expanded Path = "LuaFolders#Assets"/>
+      <Expanded Path = "LuaFolders#Assets#Scripts"/>
+      <Expanded Path = "LuaFolders#Assets#Scripts#LuaScripts#src"/>
+      <Expanded Path = "LuaFolders#Assets#StreamingAssets"/>
+      <Expanded Path = "LuaFolders#Assets#StreamingAssets#Windows"/>
+      <Expanded Path = "LuaFolders#Assets#StreamingAssets#Windows#LUA"/>
+    </ExpandedList>
+  </TreeState>
+</ProjectUI>
+<FindAnReplaceUI
+  Pattern = ""
+  MatchCase = "false"
+  MatchWholeWord = "false"
+  UseRegEx = "false"
+  Target = ""
+  Replace = ""/>
+<MainWindow
+  X = "-60"
+  Y = "107"
+  Width = "1280"
+  Height = "720"
+  Maximized = "false"
+  LastCodeFilename = "C:/Resource/!IMDT!/UnityProject/DEVF2Xlua/Assets/StreamingAssets/Windows/LUA/CtrlMgr.lua">
+  <DockingControl>
+    <DockingNode DockingDirection = "Horizontal">
+      <DockingNode DockingDirection = "None">
+        <DockingBlock Width = "287" Height = "603" DocumentStyle = "false">
+          <DockingCard
+            Text = "Project"
+            Tag = ""
+            ActivePage = "true"
+            ActivateTime = "0"/>
+          <DockingCard
+            Text = "Outline"
+            Tag = ""
+            ActivePage = "false"
+            ActivateTime = "0"/>
+        </DockingBlock>
+      </DockingNode>
+      <DockingNode DockingDirection = "Vertical">
+        <DockingNode DockingDirection = "None">
+          <DockingBlock Width = "974" Height = "372" DocumentStyle = "true">
+            <DockingCard
+              Text = "CtrlMgr.lua"
+              Tag = "C:/Resource/!IMDT!/UnityProject/DEVF2Xlua/Assets/StreamingAssets/Windows/LUA/CtrlMgr.lua"
+              ActivePage = "true"
+              ActivateTime = "178842399"
+              CaretLineIndex = "0"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "ProjectInit.lua"
+              Tag = "C:/Resource/!IMDT!/UnityProject/DEVF2Xlua/Assets/StreamingAssets/Windows/LUA/ProjectInit.lua"
+              ActivePage = "false"
+              ActivateTime = "178837984"
+              CaretLineIndex = "0"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "StartGame.lua"
+              Tag = "C:/Resource/!IMDT!/UnityProject/DEVF2Xlua/Assets/StreamingAssets/Windows/LUA/StartGame.lua"
+              ActivePage = "false"
+              ActivateTime = "178833959"
+              CaretLineIndex = "0"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "UIRootView.lua"
+              Tag = "C:/Resource/!IMDT!/UnityProject/DEVF2Xlua/Assets/StreamingAssets/Windows/LUA/UIRootView.lua"
+              ActivePage = "false"
+              ActivateTime = "178805367"
+              CaretLineIndex = "0"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "UIRootCtrl.lua"
+              Tag = "C:/Resource/!IMDT!/UnityProject/DEVF2Xlua/Assets/StreamingAssets/Windows/LUA/UIRootCtrl.lua"
+              ActivePage = "false"
+              ActivateTime = "178810104"
+              CaretLineIndex = "0"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "-1"/>
+            <DockingCard
+              Text = "TestLua1.lua"
+              Tag = "C:/Resource/!IMDT!/UnityProject/DEVF2Xlua/Assets/StreamingAssets/Windows/LUA/TestLua1.lua"
+              ActivePage = "false"
+              ActivateTime = "178811102"
+              CaretLineIndex = "0"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "TaskCtrl.lua"
+              Tag = "C:/Resource/!IMDT!/UnityProject/DEVF2Xlua/Assets/StreamingAssets/Windows/LUA/TaskCtrl.lua"
+              ActivePage = "false"
+              ActivateTime = "178823988"
+              CaretLineIndex = "0"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "TaskView.lua"
+              Tag = "C:/Resource/!IMDT!/UnityProject/DEVF2Xlua/Assets/StreamingAssets/Windows/LUA/TaskView.lua"
+              ActivePage = "false"
+              ActivateTime = "178818326"
+              CaretLineIndex = "0"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "SysDefine.lua"
+              Tag = "C:/Resource/!IMDT!/UnityProject/DEVF2Xlua/Assets/StreamingAssets/Windows/LUA/SysDefine.lua"
+              ActivePage = "false"
+              ActivateTime = "178829022"
+              CaretLineIndex = "0"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "UIRootCtrl.lua"
+              Tag = "C:/Resource/!IMDT!/UnityProject/DEVF2Xlua/Assets/Scripts/LuaScripts/src/UIRootCtrl.lua"
+              ActivePage = "false"
+              ActivateTime = "178614062"
+              CaretLineIndex = "0"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "UIRootView.lua"
+              Tag = "C:/Resource/!IMDT!/UnityProject/DEVF2Xlua/Assets/Scripts/LuaScripts/src/UIRootView.lua"
+              ActivePage = "false"
+              ActivateTime = "178615426"
+              CaretLineIndex = "0"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "TaskView.lua"
+              Tag = "C:/Resource/!IMDT!/UnityProject/DEVF2Xlua/Assets/Scripts/LuaScripts/src/TaskView.lua"
+              ActivePage = "false"
+              ActivateTime = "178616252"
+              CaretLineIndex = "0"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "CtrlMgr.lua"
+              Tag = "C:/Resource/!IMDT!/UnityProject/DEVF2Xlua/Assets/Scripts/LuaScripts/src/CtrlMgr.lua"
+              ActivePage = "false"
+              ActivateTime = "178617228"
+              CaretLineIndex = "0"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "ProjectInit.lua"
+              Tag = "C:/Resource/!IMDT!/UnityProject/DEVF2Xlua/Assets/Scripts/LuaScripts/src/ProjectInit.lua"
+              ActivePage = "false"
+              ActivateTime = "178618113"
+              CaretLineIndex = "0"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "StartGame.lua"
+              Tag = "C:/Resource/!IMDT!/UnityProject/DEVF2Xlua/Assets/Scripts/LuaScripts/src/StartGame.lua"
+              ActivePage = "false"
+              ActivateTime = "178621602"
+              CaretLineIndex = "0"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "SysDefine.lua"
+              Tag = "C:/Resource/!IMDT!/UnityProject/DEVF2Xlua/Assets/Scripts/LuaScripts/src/SysDefine.lua"
+              ActivePage = "false"
+              ActivateTime = "172324284"
+              CaretLineIndex = "0"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "TaskCtrl.lua"
+              Tag = "C:/Resource/!IMDT!/UnityProject/DEVF2Xlua/Assets/Scripts/LuaScripts/src/TaskCtrl.lua"
+              ActivePage = "false"
+              ActivateTime = "172330202"
+              CaretLineIndex = "0"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "0"/>
+          </DockingBlock>
+        </DockingNode>
+        <DockingNode DockingDirection = "None">
+          <DockingBlock Width = "974" Height = "224" DocumentStyle = "false">
+            <DockingCard
+              Text = "Output"
+              Tag = ""
+              ActivePage = "true"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Call Stack"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Locals"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Globals"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Watches"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Autos"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Breakpoints"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+          </DockingBlock>
+        </DockingNode>
+      </DockingNode>
+    </DockingNode>
+  </DockingControl>
+</MainWindow>

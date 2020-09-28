@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1208856420
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d8e4a396f3c0e6b190395bb60c793acd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AB_Resources/MyAtlas/Packages/20LVring.png
+- Assets/AB_Resources/MyAtlas/Packages/copper_box.png
+- Assets/AB_Resources/MyAtlas/Packages/Gem4LV2.png
+- Assets/AB_Resources/MyAtlas/Packages/StrengStone.png
+- Assets/AB_Resources/MyAtlas/Packages/Gem3LV1.png
+- Assets/AB_Resources/MyAtlas/Packages/Gem6LV3.png
+- Assets/AB_Resources/MyAtlas/Packages/40LVclothes.png
+- Assets/AB_Resources/MyAtlas/Packages/1LVclothes.png
+- Assets/AB_Resources/MyAtlas/Packages/1LVshoes.png
+- Assets/AB_Resources/MyAtlas/Packages/1LVstaff.png
+- Assets/AB_Resources/MyAtlas/Packages/10LVstaff.png
+- Assets/AB_Resources/MyAtlas/Packages/1LVpants.png
+- Assets/AB_Resources/MyAtlas/Packages/chongwujingpo.png
+Dependencies: []
