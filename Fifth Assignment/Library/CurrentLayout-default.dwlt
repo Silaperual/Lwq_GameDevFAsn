@@ -112,8 +112,8 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 771
-  m_MinSize: {x: 812, y: 492}
-  m_MaxSize: {x: 22007, y: 14042}
+  m_MinSize: {x: 811, y: 492}
+  m_MaxSize: {x: 22006, y: 14042}
   vertical: 0
   controlID: 34
 --- !u!114 &6
@@ -243,7 +243,7 @@ MonoBehaviour:
   m_MinSize: {x: 535, y: 271}
   m_MaxSize: {x: 18005, y: 10021}
   vertical: 0
-  controlID: 154
+  controlID: 84
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -294,7 +294,7 @@ MonoBehaviour:
   m_MinSize: {x: 334, y: 271}
   m_MaxSize: {x: 14004, y: 10021}
   vertical: 0
-  controlID: 155
+  controlID: 143
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -366,8 +366,8 @@ MonoBehaviour:
     y: 0
     width: 366
     height: 771
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 22}
   m_Panes:
   - {fileID: 22}
@@ -410,7 +410,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 1024, y: 768}
+  m_TargetSize: {x: 711.25, y: 465}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -419,23 +419,23 @@ MonoBehaviour:
   m_VSyncEnabled: 0
   m_Gizmos: 0
   m_Stats: 0
-  m_SelectedSizes: 06000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -409.6
-    m_HBaseRangeMax: 409.6
-    m_VBaseRangeMin: -307.2
-    m_VBaseRangeMax: 307.2
+    m_HBaseRangeMin: -284.5
+    m_HBaseRangeMax: 284.5
+    m_VBaseRangeMin: -186
+    m_VBaseRangeMax: 186
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 1
-    m_VSlider: 1
+    m_HSlider: 0
+    m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -449,19 +449,19 @@ MonoBehaviour:
       width: 569
       height: 372
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 176.67043, y: 169.23581}
+    m_Translation: {x: 284.5, y: 186}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -176.67043
-      y: -169.23581
+      x: -284.5
+      y: -186
       width: 569
       height: 372
     m_MinimalGUI: 1
-  m_defaultScale: 0.60546875
+  m_defaultScale: 1
   m_LastWindowPixelSize: {x: 711.25, y: 491.25}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
@@ -504,9 +504,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -27.05544, y: -21.993168, z: 108.315414}
+    m_Target: {x: -15.384121, y: 4.5895205, z: 11.216272}
     speed: 2
-    m_Value: {x: -27.05544, y: -21.993168, z: 108.315414}
+    m_Value: {x: -15.384121, y: 4.5895205, z: 11.216272}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -552,13 +552,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.12132734, y: -0.05445632, z: 0.0066708536, w: 0.9911145}
+    m_Target: {x: 0.08537377, y: 0.18600592, z: -0.016223382, w: 0.97872216}
     speed: 2
-    m_Value: {x: 0.121334895, y: -0.052968577, z: 0.006488731, w: 0.9911762}
+    m_Value: {x: -0.08537376, y: -0.1860059, z: 0.016223382, w: -0.9787221}
   m_Size:
-    m_Target: 71.873314
+    m_Target: 20.406427
     speed: 2
-    m_Value: 68.77829
+    m_Value: 21.367987
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -640,7 +640,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 56fbffff
+      m_ExpandedIDs: 60fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -735,15 +735,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Material
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Shirl\Documents\GitHub\Lwq_IMDT\Fifth Assignment\Material
-    and Texture
+  m_LastProjectPath: C:\Users\Shirl\Documents\GitHub\Lwq_IMDT\Fifth Assignment
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 30380000
     m_LastClickedID: 14384
-    m_ExpandedIDs: 000000000a3800000c3800000e3800003438000000ca9a3b
+    m_ExpandedIDs: 000000000a3800000c3800000e38000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
