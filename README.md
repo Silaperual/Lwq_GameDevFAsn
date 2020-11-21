@@ -10,3 +10,5 @@
 >用Blender建了两个不同面数、颜色和法线贴图有一定差异的甜甜圈，并分别输出成三个LOD导入到Unity中。可以查看Unity Editor Screenshots文件夹中的关于LOD的截图。
 ### 第五次作业 材质与贴图
 >利用Demo工程(Unity)中已有的模型和贴图资源，为每个模型创建新的材质(每个模型可使用多个材质)，使得模型表现出正确的效果。可以查看Unity Editor Screenshots文件夹中的实现效果截图。
+### 第八次作业 材质与贴图
+>利用Adobe Audition Sound Effects、freesound、mixkit网站上的免费资源为示例视频配置音乐和音效
